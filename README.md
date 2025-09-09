@@ -305,5 +305,3 @@ export function useAutoRefresh() {
 | 🔗 Contributions | Open for community PRs       |
 
 
-👉 Chaahe mai isme "Screenshots / GIFs section" bhi dal du demo visuals ke liye?
-```
