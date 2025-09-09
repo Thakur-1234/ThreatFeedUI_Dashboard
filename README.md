@@ -61,8 +61,7 @@ It provides "charts, filters, and auto-refresh capabilities" with a "clean, resp
 
  🛠 Tech Stack
 
-| Technology        | Version | Purpose                         |
-|->>->>->>->>->|->>->>-|->>->>->>->>->>->>->>->>-|
+| Technology        | Version | Purpose                        |
 | "Next.js"       | 15.5.2  | App Router, SSR/SSG             |
 | "TypeScript"    | 5.x     | Type safety                     |
 | "TailwindCSS"   | 4.x     | Styling & responsiveness        |
@@ -251,7 +250,6 @@ export function useAutoRefresh() {
  🐛 Troubleshooting
 
 | Issue                      | Cause                  | Fix                              |
-| ->>->>->>->>->>->>-> | ->>->>->>->>->>-> | ->>->>->>->>->>->>->>->> |
 | `Type error`               | Wrong TS definitions   | Update types in `/types`         |
 | `Chart not rendering`      | Malformed IOC data     | Validate + dedupe before render  |
 | `Fetch failed`             | Wrong API URL / CORS   | Update `.env.local`              |
@@ -314,6 +312,3 @@ MIT License – free for private & commercial use.
 | 🔗 Contributions | Open for community PRs       |
 
 
-
-👉 Chaahe to mai ek "screenshots / GIFs section" bhi bana du taaki visuals add kare?
-```
